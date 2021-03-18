@@ -447,7 +447,38 @@ CIBN朵丫乐园,http://v.iam7.cn/iptv/cibn.php?code=QiChe
 
 港澳台,#genre#
 
-
+凤凰咨询,http://testcode.qwtvweb.xyz/gn/hktv.php?id=1
+凤凰卫视,http://testcode.qwtvweb.xyz/gn/hktv.php?id=2
+凤凰香港,http://testcode.qwtvweb.xyz/gn/hktv.php?id=3
+有线新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=3
+603,http://testcode.qwtvweb.xyz/gn/hktv.php?id=4
+18台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=5
+无线新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=6
+无线咨询台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=7
+翡翠台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=8
+明珠台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=9
+j2,http://testcode.qwtvweb.xyz/gn/hktv.php?id=10
+vtv,http://testcode.qwtvweb.xyz/gn/hktv.php?id=11
+now新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=12
+中天新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=13
+东森新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=14
+东森财经,http://testcode.qwtvweb.xyz/gn/hktv.php?id=15
+一新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=16
+台式新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=17
+中视新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=18
+新闻咨询,http://testcode.qwtvweb.xyz/gn/hktv.php?id=19
+TVBS新闻台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=20
+三立新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=21
+民视新闻,http://testcode.qwtvweb.xyz/gn/hktv.php?id=22
+民视HD,http://testcode.qwtvweb.xyz/gn/hktv.php?id=23
+台式HD,http://testcode.qwtvweb.xyz/gn/hktv.php?id=24
+中视HD,http://testcode.qwtvweb.xyz/gn/hktv.php?id=25
+华视,http://testcode.qwtvweb.xyz/gn/hktv.php?id=26
+TVBS欢乐台,http://testcode.qwtvweb.xyz/gn/hktv.php?id=27
+东森超市,http://testcode.qwtvweb.xyz/gn/hktv.php?id=30
+纬来体育HD,http://testcode.qwtvweb.xyz/gn/hktv.php?id=29
+纬来日本,http://testcode.qwtvweb.xyz/gn/hktv.php?id=30
+纬来体育,http://testcode.qwtvweb.xyz/gn/hktv.php?id=31
 
 轮播频道,#genre#
 
