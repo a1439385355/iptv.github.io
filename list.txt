@@ -552,6 +552,7 @@ YATV - 2,http://39.134.24.193/PLTV/88888888/224/3221225971/index.m3u8
 宁强 - 2,http://39.134.24.193/PLTV/88888888/224/3221226031/index.m3u8
 
 少儿频道,#genre#
+黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 my kids,http://202.59.250.83/TV.php?id=1495r
 ca卡通,http://202.59.250.83/TV.php?id=107r
 momo亲子,http://202.59.250.83/TV.php?id=1149r
@@ -575,170 +576,28 @@ boom卡通,http://202.59.250.83/TV.php?id=57r
 猪侠英雄[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 爱动漫[1920*1080],http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+
 大牌ip,#genre#
 
-求索科学3,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索记录3,http://117.148.187.46/PLTV/88888888/224/3221226610/index.m3u8
-求索动物3,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-国家地理1,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=302r
-探索频道3,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1035r
-探索科学1,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=343r
-国家野生台湾,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1038r
-eve,http://154.209.228.114/crtv.php?id=1036r
-BBC,http://154.209.228.114/crtv.php?id=424r
-香港探索,http://154.209.228.114/crtv.php?id=91r
-DMAX,http://154.209.228.114/crtv.php?id=335r
-NASA,http://154.209.228.114/crtv.php?id=1009r
-NASA TV,http://154.209.228.114/crtv.php?id=25r
-动物星球,http://154.209.228.114/crtv.php?id=367r
-求索纪录,FHD],http://117.148.187.46/PLTV/88888888/224/3221226610/index.m3u8
+求索动物3，http：//39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索记录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-精品纪录,http://112.17.40.147/PLTV/88888888/224/3221226360/index.m3u8
+
+
+
+
 港澳台,#genre#
 
-民视新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=317r
-tvbs新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=2r
-中天新闻,http://202.59.250.83:80/TV.php?id=3r
-东森新闻,http://202.59.250.83/TV.php?id=9r
-东森财经,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=12r
-三立新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=4r
-华视新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=6r
-set新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=8r
-台视新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1r
-中视新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=7r
-年代新闻,http://154.209.228.114/crtv.php?id=1099r
-非凡商业,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=187r
-非凡新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=314r
-环宇财经,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=320r
-VOA米国之音,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=495r
-VOA卫视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=22r
-台视财经,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=300r
-环宇新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=304r
-壹电视新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=303r
-追戏台,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=494r
-第一商业台,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=186r
-民视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=26r
-台视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=27r
-中视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=28r
-华视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=32r
-公视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=86r
-幸福空间,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=61r
-好消息,1http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=104r
-客家电视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=76r
-纬来综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=340r
-八大第一,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=318r
-八大综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=325r
-八大娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=105r
-三立台湾,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=21r
-三立都会,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=38r
-卫视中文,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=342r
-东森综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=372r
-东森超视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=80r
-中天综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=54r
-中天娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=324r
-tvbs欢乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=40r
-八大精彩,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1024r
-jet综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=41r
-tvbs综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=16r
-纬来育乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=338r
-纬来日本,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=337r
-国兴卫视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=65r
-信吉,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=422r
-壹综合,http://202.59.250.83/TV.php?id=305r
-公视3,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1340r
-好消息2,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=363r
-高点综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=99r
-中天综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=322r
-民视综艺,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=98r
-民视第一,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=34r
-民视台湾,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=36r
-公视台语,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=58r
-龙华偶像,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=347r
-龙华日韩,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=382r
-猪哥亮歌,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=75r
-elta娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=351r
-韩国娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=73r
-星卫娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=89r
-靖天国际,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=345r
-靖天娱乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1029r
-靖天日本,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=108r
-靖天欢乐,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=51r
-三立综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=315r
-靖天资讯,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=49r
-靖天综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=308r
-中视经典,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=185r
-环宇综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=190r
-中视精彩,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=74r
-tvb精彩,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=66r
-华谊综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=310r
-年代much,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1359r
-台视综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=309r
-elta综合,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1137r
-番薯TV,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=29r
-大爱1,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=11r
-tvb翡翠,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=390r
-TVB明珠,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=391r
-无线新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=45r
-有线新闻http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=395r
-j2,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=392r
-now新闻,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=396r
-now直播,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=400r
-香港开电视,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=17r
-z频道,http://202.59.250.83/TV.php?id=1130r
-皇马足球,http://154.209.228.114/crtv.php?id=20r
-龙华影剧,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=13r
-东森戏剧,http://154.209.228.114/crtv.php?id=321r
-八大戏剧,http://154.209.228.114/crtv.php?id=81r
-全球财经,http://154.209.228.114/crtv.php?id=1497r
-GEM,http://154.209.228.114/crtv.php?id=1350r
-setone,http://154.209.228.114/crtv.php?id=1349r
-每日影院http://154.209.228.114/crtv.php?id=1348r
-爆谷台,http://154.209.228.114/crtv.php?id=152r
-catchplay,http://154.209.228.114/crtv.php?id=362r
-卫视西片,http://154.209.228.114/crtv.php?id=369r
-金光布袋戏,http://154.209.228.114/crtv.php?id=1060r
-华纳电影,http://154.209.228.114/crtv.php?id=83r
-龙华电影,http://154.209.228.114/crtv.php?id=311r
-AXN,http://154.209.228.114/crtv.php?id=1066r
-AXN台湾,http://154.209.228.114/crtv.php?id=423r
-光影欧洲,http://154.209.228.114/crtv.php?id=1157r
-公视戏剧,http://154.209.228.114/crtv.php?id=69r
-星卫电影,http://154.209.228.114/crtv.php?id=496r
-龙祥时代,http://154.209.228.114/crtv.php?id=373r
-龙华经典,http://154.209.228.114/crtv.php?id=100r
-影迷数位,http://154.209.228.114/crtv.php?id=497r
-民视影剧,http://154.209.228.114/crtv.php?id=84r
-美亚电影,http://154.209.228.114/crtv.php?id=375r
-霹雳台湾,http://154.209.228.114/crtv.php?id=1339r
-eve戏剧,http://154.209.228.114/crtv.php?id=191r
-靖洋戏剧,http://154.209.228.114/crtv.php?id=319r
-靖天映画,http://154.209.228.114/crtv.php?id=349r
-东森洋片,http://154.209.228.114/crtv.php?id=1128r
-纬来电影,http://154.209.228.114/crtv.php?id=96r
 
-马来西亚,#genre#
 
-astro欢喜台,http://202.59.250.83/TV.php?id=432r
-astro小太阳,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=443r
-TVN,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1170r
-全佳,http://202.59.250.83/TV.php?id=427r
-欢喜,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=432r
-双星,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=431r
-华丽,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=429r
-卫视卡式台,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1085r
-经典,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1083r
+
+
+
 
 电影频道,#genre#
 
-阿良说美剧,http://121.12.115.14/tx.hls.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1_2000.m3u8
-老吴说电影,http://121.12.115.14/tx.hls.huya.com/src/1444498658-1444498658-6204074495225888768-4665669106-10057-A-0-1_2000.m3u8
-埋堆堆,http://121.12.115.14/tx.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1_2000.m3u8
-海爷6号,http://121.12.115.14/tx.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1_2000.m3u8
-医馆笑传,http://121.12.115.14/tx.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1_2000.m3u8
-河东影视,http://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
 欢喜剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 电影4,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 电影轮播5,rtmp://tx2play1.douyucdn.cn:1935/live/122402rK7MO9bXSq
@@ -746,21 +605,13 @@ TVN,http://5hjlsq4.vipcrtv.tk/402780086/wenj/xktv.php?id=1170r
 电影轮播7,rtmp://tx2play1.douyucdn.cn:1935/live/315457rkHZoBCIGx
 电影轮播8,rtmp://tx2play1.douyucdn.cn:1935/live/5033502rKAhPWDWm
 电影轮播9,rtmp://tx2play1.douyucdn.cn:1935/live/5129261rZlxiaokj
-鹤峰影视台,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
-黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-CHC勾清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcdz
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcjt
 BEST电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-BEST电影,http://112.17.40.145/PLTV/88888888/224/3221226685/index.m3u8
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+BEST2电影,http://112.17.40.145/PLTV/88888888/224/3221226685/index.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 斗鱼电影2,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_2000.xs
 斗鱼电影25,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_2000p.xs
@@ -769,21 +620,13 @@ kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 kk经典,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
 电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=DX5VIJZTDI4ZCN5K4S663GCPBBML&ts=1550812417
 电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=U0L14XNX2GN19M0APIZKBZ1WC41Q&ts=1550812411
-CHC电影,http://hd1.91kds.cn/b9/aishang.m3u8?id=chchd
-CHC电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典影院,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 终极影院,http://pull.kktv8.com/livekktv/111536805.flv
-都市剧场,http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-黑莓动画,http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
-亚洲影院,http://125.210.152.21:9120/live/YZYY.m3u8
-欧美影院,http://125.210.152.21:9120/live/OMYY.m3u8
-精品剧场,http://125.210.152.21:9120/live/JPJC.m3u8
 
 黑龙江地方台,#genre#
-黑龙江公共,http://stream3.hljtv.com/hljgg2/sd/live.m3u8
 黑龙江都市,http://stream3.hljtv.com/hljdd2/sd/live.m3u8
 黑龙江少儿,http://stream3.hljtv.com/hljse2/sd/live.m3u8
 黑龙江文体,http://stream3.hljtv.com/hljwy2/sd/live.m3u8
@@ -794,125 +637,8 @@ kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 哈尔滨资讯,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225761/index.m3u8
 
 虎牙直播轮播,#genre#
-笑傲江湖,http://121.12.115.14/tx.hls.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus_2000.m3u8
-贝爷求生,http://121.12.115.14/tx.hls.huya.com/src/1099531752750-1099531752750-86436105162850304-2199063628956-10057-A-0-1_2000.m3u8
-逗乐小品,http://121.12.115.14/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1_2000.m3u8
-吐槽大会,http://121.12.115.14/tx.hls.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1_2000.m3u8
-美食记录,http://121.12.115.14/tx.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1-imgplus_2000.m3u8
-今晚脱口秀,http://121.12.115.14/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8
-笑傲帮,http://121.12.115.14/tx.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1_2000.m3u8
-英叔电影系列轮播,http://121.12.115.14/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1-imgplus_2000.m3u8
-沈腾系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus_2000.m3u8
-发哥系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus_2000.m3u8
-贺岁片系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus_2000.m3u8
-五福星系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1_2000.m3u8
-漫威系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2000.m3u8
-香港警匪系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus_2000.m3u8
-华仔系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1_2000.m3u8
-功夫电影系列轮播,http://121.12.115.14/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1_2000.m3u8
-春晚小品系列轮播,http://121.12.115.14/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1_2000.m3u8
-黑白道系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1_2000.m3u8
-古惑仔系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus_2000.m3u8
-吴京系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1_2000.m3u8
-李连杰系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus_2000.m3u8
-经典喜剧电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1_2000.m3u8
-赌片系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1-imgplus_2000.m3u8
-甄子丹系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus_2000.m3u8
-高智商犯罪系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus_2000.m3u8
-奇异科幻系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1_2000.m3u8
-开心麻花系列小品轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1_2000.m3u8
-外国喜剧电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1_2000.m3u8
-惊奇探险系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1_2000.m3u8
-徐峥系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1_2000.m3u8
-汤姆克鲁斯系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-灾难片系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1_2000.m3u8
-惊恐悬疑系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1_2000.m3u8
-冯小刚系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1_2000.m3u8
-奇形怪兽系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1099531752749-1099531752749-86436100867883008-2199063628954-10057-A-0-1_2000.m3u8
-欧美大片系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1_2000.m3u8
-加勒比海盗系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1448738217-1448738217-6222283262480351232-2847699222-10057-A-0-1_2000.m3u8
-许氏幽默系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1_2000.m3u8
-生物僵尸系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1_2000.m3u8
-中国功夫电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1_2000.m3u8
-韩国动作系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1_2000.m3u8
-星际银河系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1_2000.m3u8
-赛车系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1_2000.m3u8
-惊魂恐怖电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1_2000.m3u8
-孙红雷系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/43460312-43460312-186660618713956352-2847687638-10057-A-0-1_2000.m3u8
-女神系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1_2000.m3u8
-欧美动作系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1_2000.m3u8
-商业斗智系列电影轮播,http://121.12.115.14/tx.hls.huya.com/src/1099531752752-1099531752752-86436113752784896-2199063628960-10057-A-0-1_2000.m3u8
-香港老电影系列轮播,http://121.12.115.14/tx.hls.huya.com/src/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8
-警匪系列电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1199548705079-1199548705079-5380861708489195520-2399097533614-10057-A-0-1_2000.m3u8
-海外喜剧电影轮播,http://121.12.115.14/tx.hls.huya.com/huyalive/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1_2000.m3u8
-购物,#genre#
-北京家有购物,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225682/index.m3u8
-聚鲨环球精选,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225708/index.m3u8
+
 
 
 海外频道,#genre#
-美国CGTN[1024*576],http://live.cgtn.com/500/prog_index.m3u8
-美国CGTN[1024*576],http://live.cgtn.com/1000/prog_index.m3u8
-美国Bloomberg TV Europe[320*180],http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-美国Fox News Talk Radio[320*192],http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-美国Newsmax TV[720*404],http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国本土CBS 4 News (Indianapolis)[1280*720],http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-加拿大CBC News (VOD)[1280*720],http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-加拿大The Shopping Channel[848*480],http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-英国MTV[320*176],http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-法国Francophonie 24[640*360],http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-德国Baden TV[1280*720],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-德国QVC[512*288],http://ios-stream.qvc.de/qvc.m3u8
-意大利m20 TV[640*360],http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-意大利Radio Italia TV[720*480],http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-意大利TVRS[854*480],http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-意大利Video Brescia[1280*720],http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-意大利Video Calabria[854*480],http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-西班牙Canal Parlamento (Updated)[640*360],http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-西班牙TeleSafor[640*360],http://video.telesafor.com/hls/video_low.m3u8
-俄罗斯Astrakhan 24 (Opt-2)[426*240],http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-俄罗斯HD Fashion[1920*1080],http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-俄罗斯Krasnaja Linija[853*480],http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-俄罗斯MostVideo TV 1[1280*720],http://w4.mostvideo.tv/tv/ch1.m3u8
-俄罗斯Muz Sojuz[1024*576],http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-俄罗斯MTVmix Ufa[559*384],http://81.30.182.82:18092/hls/live.m3u8
-俄罗斯Nastoyashcheye Vremya[426*240],http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-俄罗斯RBC (Opt-1)[996*560],http://92.50.128.180/utv/1358/index.m3u8
-俄罗斯Shanson TV (Opt-1)[720*576],http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-俄罗斯Tivikom Ulan-Udje[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-俄罗斯TRO Soyuz[1024*576],http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-俄罗斯Ugra TV[654*360],http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-波兰TV Torun[640*360],http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-奥地利KRALHD[1280*720],http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-丹麦TV2 Bornholm[1920*1080],http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-挪威Stortinget[1024*576],http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
-喀麦隆 Vision 4[327*240],http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-拉丁美洲CGTN[1024*576],http://livees.cgtn.com/1000e/prog_index.m3u8
-拉丁美洲TV Marti[426*240],http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-墨西哥Milenio TV[1280*720],http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-墨西哥Uno TV (VOD)[426*240],http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-罗马尼亚Cromtel TV[1024*576],http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-罗马尼亚Iasi TV Life[1024*576],http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-捷克Retro (Opt-1)[640*360],http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-斯洛伐克TV 8[640*360],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-斯洛伐克TVNZ[864*486],http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-拉脱维亚TV Net[640*360],http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-土耳其CNN Turk[1024*576],http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-土耳其Meclis TV[640*360],http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-印度ABP Asmita[524*324],http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-印度DD News[1024*576],http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-阿拉伯半岛电视新闻网Al Hurra[864*486],http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-阿拉伯半岛电视新闻网Deutsche Welle[400*224],http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-伊拉克 Al Sharqiya[800*450],http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-伊拉克 Sharqiya News[800*450],http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-フジテレビ[1280*720],http://203.162.235.41:16904
-BSフジ[1280*720],http://203.162.235.41:16911
-テレビ東京[1280*720],http://203.162.235.41:16908
-日テレ[1280*720],http://203.162.235.41:16905
-日本剧场,http://fjxhs.78709.xyz/bobo/live228/crtv.php?id=298
-日本Japanet Channel DX[1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-韩国Arirang (Opt-1)[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-越南ANTVHD[1047*576],http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-限制级4[1024*576],https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?streamType=live
-限制级5[1280*720],http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-限制级8[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
+
